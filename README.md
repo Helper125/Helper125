@@ -12,7 +12,7 @@ Python Developer • Telegram Bots • Web Applications • Automation
 ---
 
 <div>
-  <h2><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/75ac670d-5c2c-4079-87ef-d3bc8fcbb50f" />About Me:</h2>
+  <h2><img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/streamline-ultimate-color--network-user.png" />About Me:</h2>
   <h3>I am a <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/material-symbols--code.png" />Python developer<img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/carbon--code.png" /> from Ukraine 🇺🇦, Graduate of GoITeens. Specializing in: 
     <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/boxicons--robot.png" />Bot development, 
     <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/fluent-mdl2--website.png" /> web applications, and 
@@ -24,13 +24,13 @@ Python Developer • Telegram Bots • Web Applications • Automation
 <h2><img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/boxicons--plug-connect.png" /> Connect With Me</h2>
 <div id="badges" align="center">
   <a href="https://github.com/Helper125">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6842e06-1dc6-493a-9374-396d18e6644e" />
+    <img width="50" height="50" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/mdi--github.png" />
   </a>
   <a href="https://www.instagram.com/125helper/">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/72f3ddfb-e669-4192-a594-51a0d5853bd0" />
+    <img width="50" height="50" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D1%80%D1%96%D0%B4%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-81647137a/?locale=en-US">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2600f477-448b-4475-b745-8300ef7ca4b2" />
+    <img width="50" height="50" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--linkedin.png" />
   </a>
 </div>
 
