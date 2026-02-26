@@ -13,15 +13,15 @@ Python Developer • Telegram Bots • Web Applications • Automation
 
 <div>
   <h2><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/75ac670d-5c2c-4079-87ef-d3bc8fcbb50f" />About Me:</h2>
-  <h3>I am a <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d2b9b55c-fe64-45ed-ade5-971c112e1502" />Python developer<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2b2054a8-f706-4b46-bc9a-21354e0d03fd" /> from Ukraine 🇺🇦, Graduate of GoITeens. Specializing in: 
-    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/44fdd30c-4d1b-457a-b256-a19336759c70" />Bot development, 
-    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/799065be-9b42-4b09-ac7c-efa8f726ca51" /> web applications, and 
-    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/87455966-2858-43bf-99ed-ff3c1d61f347" /> automation</h3>
+  <h3>I am a <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/material-symbols--code.png" />Python developer<img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/carbon--code.png" /> from Ukraine 🇺🇦, Graduate of GoITeens. Specializing in: 
+    <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/boxicons--robot.png" />Bot development, 
+    <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/fluent-mdl2--website.png" /> web applications, and 
+    <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/arcticons--automation.png" /> automation</h3>
 </div>
 
 ---
 
-<h2><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5c11f87a-95e3-4d16-936b-fb1075dbad21" /> Connect With Me</h2>
+<h2><img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/boxicons--plug-connect.png" /> Connect With Me</h2>
 <div id="badges" align="center">
   <a href="https://github.com/Helper125">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6842e06-1dc6-493a-9374-396d18e6644e" />
@@ -45,31 +45,31 @@ Python Developer • Telegram Bots • Web Applications • Automation
 ---
 <h2>my skills:</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/logos--python.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--sqlite%20(1).png" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/logos--mysql.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/devicon--postgresql.png" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/devicon--sqlalchemy-wordmark.png" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--django.png" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--flask-light.png" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/devicon--fastapi-wordmark.png" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--vscode-light.png" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--linux-light.png" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/skill-icons--windows-light.png" height="40" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/devicon--pycharm.png" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/devicon-plain--bash.png" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://github.com/Helper125/Helper125/blob/main/icon/ri--ubuntu-fill.png" height="40" alt="ubuntu logo"  />
 </div>
