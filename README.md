@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I`m Dmytro👋</h2>
 
 <p align="center">
-Python Developer • Telegram Bots • Web Applications • Automation
+Python Developer • Telegram Bots • Web Applications • Automation • Parsing
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A025FD&center=true&vCenter=true&width=600&lines=print(%22Hello%20World%22);Backend+Developer;Telegram+Bot+Creator;Automation+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A025FD&center=true&vCenter=true&width=600&lines=print(%22Hello%20World%22);Backend+Developer;Telegram+Bot+Creator;Automation+Engineer+parsing" />
 </div>
 
 
@@ -17,6 +17,7 @@ Python Developer • Telegram Bots • Web Applications • Automation
     <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/boxicons--robot.png" />Bot development, 
     <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/fluent-mdl2--website.png" /> web applications, and 
     <img width="20" height="20" alt="image" src="https://github.com/Helper125/Helper125/blob/main/icon/arcticons--automation.png" /> automation</h3>
+    <h3>parsing</h3>
 </div>
 
 ---
