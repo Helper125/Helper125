@@ -5,7 +5,7 @@ Python Developer • Telegram Bots • Web Applications • Automation • Parsi
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A025FD&center=true&vCenter=true&width=600&lines=print(%22Hello%20World%22);Backend+Developer;Telegram+Bot+Creator;Automation+Engineer+parsing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A025FD&center=true&vCenter=true&width=600&lines=print(%22Hello%20World%22);Backend+Developer;Telegram+Bot+Creator;Automation+Engineer;parsing" />
 </div>
 
 
